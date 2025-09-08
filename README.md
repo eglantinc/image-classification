@@ -32,5 +32,9 @@ Model size (number of parameters)
 ROC-AUC curves (when applicable)
 
 ---
+## 📁 Dataset
+To access the full feature extraction datasets, please follow this [link](https://drive.google.com/drive/folders/1g0aAAuMZ0ZxsMVErUHDzD59SRfViAuPD?usp=share_link)
+---
 ## Author
 - **Name**: Églantine Clervil
+- **Name**: Yasmine Naas
